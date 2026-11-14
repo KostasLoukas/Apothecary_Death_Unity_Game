@@ -3,7 +3,7 @@
 Apothecary Death is a short horror game experience about a man that found himself waking up in an abandoned establishment. His goal? 
 Get out and be quick; who knows what dangers lurk in the shadows of that bunker...
 
-The Unity project of the game was to big for the Git to process and thus, I have not yet managed to upload it..
+The Unity project of the game appeared to be too big for Github to process and thus, I have not yet managed to upload it..
 
 This game is a full release of the original idea and was created for an exercise in the context of one of my master's exams. The game 
 is not to be taken seriously; it is merely for entertainment purposes only.
