@@ -9,6 +9,7 @@ This game is a full release of the original idea and was created for an exercise
 is not to be taken seriously; it is merely for entertainment purposes only.
 
 You can find the fully playable game on itch.io here: https://kostasloukas.itch.io/apothecary-death
+
 <img width="617" height="330" alt="image" src="https://github.com/user-attachments/assets/7a2b360d-fd8f-4e4e-93d8-b8966ba1effe" />
 <img width="617" height="330" alt="image" src="https://github.com/user-attachments/assets/ad9bf661-0fae-47cf-8de5-17822bdd90e8" />
 <img width="617" height="330" alt="image" src="https://github.com/user-attachments/assets/0b034832-5de5-4254-bf80-e61eb08eb329" />
